@@ -1,6 +1,5 @@
-# Hi, I'm Amal 👋
-
-ASP.NET Core Developer | Backend-Focused | Enterprise Track  
+# Amal Ahammed C J  
+### ASP.NET Core Developer | Backend-Focused | Enterprise Track
 BTech Graduate | IT Assistant (Stepping Stone Role)
 
 ---
