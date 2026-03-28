@@ -71,4 +71,3 @@ Consistency > Motivation.
 ## 📫 Connect
 
 - LinkedIn: https://www.linkedin.com/in/amal-ahammed-33a60126a
-- GitHub: https://github.com/Seejai
