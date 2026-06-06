@@ -45,28 +45,7 @@ Game studio later.
 - Git (CLI focused)
 - VS Code
 - Visual Studio
-- Postman
 - SSMS
-
----
-
-## 📌 Current Goals (2026)
-
-- Build 2 production-level ASP.NET projects
-- Master authentication & authorization
-- Improve problem solving (DSA)
-- Deploy live full-stack project
-
----
-
-## 📈 Growth Mindset
-
-Not here to look impressive.  
-Here to become capable.
-
-Consistency > Motivation.
-
----
 
 ## 📫 Connect
 
