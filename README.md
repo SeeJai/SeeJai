@@ -1,6 +1,6 @@
 # Amal Ahammed C J  
 ### ASP.NET Core Developer | Backend-Focused | Enterprise Track
-BTech Graduate | IT Assistant (Stepping Stone Role)
+BTech Graduate
 
 ---
 
@@ -11,19 +11,6 @@ BTech Graduate | IT Assistant (Stepping Stone Role)
 - Angular (Frontend Integration)
 - Clean Architecture & Layered Design
 - Improving DSA & System Design
-
----
-
-## 🧠 Development Philosophy
-
-I believe in:
-- Writing maintainable backend systems
-- Understanding fundamentals deeply
-- Shipping real projects instead of collecting tutorials
-- Building discipline before chasing trends
-
-Enterprise first.  
-Game studio later.
 
 ---
 
