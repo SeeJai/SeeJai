@@ -1,76 +1,51 @@
-Amal Ahammed C J
-Junior .NET Full Stack Developer | ASP.NET Core | Web API | Angular
+# Amal Ahammed C J
+### Junior .NET Full Stack Developer | ASP.NET Core | Web API
 
-B.Tech Computer Science Graduate
+BTech Computer Science Graduate
 
-About Me
+---
 
-Junior .NET developer with hands-on experience building ASP.NET Core Web APIs, full-stack web applications, and database-driven applications.
+## Current Focus
 
-Recently completed a Software Developer Internship where I worked with ASP.NET Core, Web APIs, WITSML, XML processing, Swagger, Cassandra, middleware, and authentication.
+- ASP.NET Core Web API
+- C# & Entity Framework Core
+- SQL Server, PostgreSQL & SQLite
+- Angular & Blazor
+- REST APIs & Authentication
+- Clean Architecture & Layered Design
+- Improving DSA & System Design
 
-Currently focused on building reliable backend systems while expanding my full-stack development skills.
+---
 
-Tech Stack
+## Tech Stack
 
-Backend
-C#
-ASP.NET Core
-ASP.NET Core Web API
-Entity Framework Core
-REST APIs
-ADO.NET
+**Backend**
+- C#
+- ASP.NET Core
+- Entity Framework Core
+- REST APIs
+- ADO.NET
 
-Frontend
-Angular
-Blazor Server
-TypeScript
-JavaScript
-HTML / CSS
+**Frontend**
+- Angular
+- Blazor Server
+- TypeScript
+- HTML / CSS
 
-Databases
-SQL Server
-PostgreSQL
-SQLite
-Cassandra
+**Databases**
+- SQL Server
+- PostgreSQL
+- SQLite
+- Cassandra
 
-Other
-XML / WITSML
-JSON
-Swagger
-JWT / Basic Authentication
-Git / GitHub
-Visual Studio
-VS Code
+**Tools**
+- Git
+- GitHub
+- Visual Studio
+- VS Code
+- Swagger
+- Postman
 
-Featured Projects
+## Connect
 
-PlantStore
-Full-stack plant e-commerce application built with Blazor Server, ASP.NET Core, EF Core, and SQLite.
-Product CRUD management
-Multi-image product galleries
-Admin authentication
-Cart management
-WhatsApp checkout integration
-
-Resume Builder
-Full-stack resume management application using ASP.NET Core Web API, Angular, and PostgreSQL.
-Authentication
-RESTful APIs
-CRUD operations
-Dynamic forms
-Resume preview generation
-
-Food For You
-Responsive bakery and food ordering website built with Angular, TypeScript, HTML5, and CSS3.
-
-Current Focus
-ASP.NET Core & Web API
-Backend architecture
-SQL & database design
-Angular / frontend integration
-Clean Architecture & layered design
-Data structures & algorithms
-System design
-Connect
-LinkedIn: https://www.linkedin.com/in/amal-ahammed-33a60126
+- LinkedIn: https://www.linkedin.com/in/amal-ahammed-33a60126
